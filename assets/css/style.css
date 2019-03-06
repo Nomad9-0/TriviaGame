@@ -1,0 +1,49 @@
+body{
+    background: black;
+    color: white;
+}
+
+.main-game {
+    background: silver;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    background: black;
+    padding-bottom: 10px;
+    opacity: 0.7;
+}
+
+#timer {
+    background: black;
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+#question {
+    background: black;
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+#answers {
+    background: black;
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+.answerChoice {
+    border-style: solid;
+    padding: 20 0px 20px 0px;
+    font-size: 20px;
+}
+
+.answerChoice:hover {
+    background-color: grey;
+}
+
+#start{
+    font-size: 20px;
+}
